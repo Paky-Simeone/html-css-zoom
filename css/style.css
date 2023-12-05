@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-/* FONTAWESOME ICONS */
+/* Icone Fontawesome */
 [class|="fa"] {
   color: white;
   margin: 3px;
@@ -31,7 +31,7 @@ header {
   background-color: black;
 }
 
-/* HEADER BUTTONS */
+/* Bottoni Header */
 
 .buttoncontainer {
   text-align: right;
@@ -63,13 +63,13 @@ header {
   overflow-x: hidden;
 }
 
-.camview {
+.Video {
   width: calc(100vw / 7 - 30px);
   min-width: 200px;
   position: relative;
 }
 
-.camview:hover {
+.Video:hover {
   box-shadow: 0 0 5px white;
 }
 
@@ -89,7 +89,7 @@ img {
   width: 100%;
 }
 
-/* FOOTER */
+/* Footer */
 
 footer {
   height: 80px;
